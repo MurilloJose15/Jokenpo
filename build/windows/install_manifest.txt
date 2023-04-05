@@ -1,0 +1,14 @@
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/data/flutter_assets/image/all.png
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/data/flutter_assets/image/papel.png
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/data/flutter_assets/image/pedra.png
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/data/flutter_assets/image/tesoura.png
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/tecnico03/StudioProjects/teste/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
